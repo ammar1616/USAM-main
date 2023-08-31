@@ -1,0 +1,101 @@
+// Guess Word Game
+.word-guess {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-flow: column;
+	color: #000;
+	min-height: 100vh;
+	margin: 2.5rem 0 -2.5rem;
+	@media #{$viewport-small} {
+		margin: 3rem 0 -3rem;
+	}
+	& .wrapper {
+		width: 430px;
+		background: #fff;
+		border-radius: 10px;
+		box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+		@media #{$viewport-small} {
+			width: 90%;
+		}
+		& h1 {
+			font-size: 25px;
+			font-weight: 500;
+			padding: 20px 25px;
+			border-bottom: 1px solid #ccc;
+			@media #{$viewport-small} {
+				font-size: 22px;
+				padding: 16px 20px;
+			}
+		}
+		& .content {
+			margin: 25px 25px 35px;
+			@media #{$viewport-small} {
+				margin: 25px 20px 35px;
+			}
+			& .inputs {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				& input {
+					height: 57px;
+					width: 56px;
+					margin: 4px;
+					font-size: 24px;
+					font-weight: 500;
+					color: #1ba98c;
+					text-align: center;
+					border-radius: 5px;
+					background: none;
+					pointer-events: none;
+					text-transform: uppercase;
+					border: 1px solid #b5b5b5;
+					@media #{$viewport-small} {
+						height: 51px;
+						width: 50px;
+						margin: 3px;
+						font-size: 22px;
+					}
+					&:first-child {
+						margin-left: 0;
+					}
+				}
+			}
+			& .typing-input {
+				opacity: 0;
+				z-index: -999;
+				position: absolute;
+				pointer-events: none;
+			}
+			& .details {
+				margin: 20px 0 25px;
+				& p {
+					font-size: 19px;
+					margin-bottom: 10px;
+					@media #{$viewport-small} {
+						font-size: 17px;
+					}
+				}
+			}
+			& .reset-btn {
+				width: 100%;
+				color: #fff;
+				padding: 15px 0;
+				font-size: 17px;
+				outline: none;
+				border: none;
+				border-radius: 5px;
+				background: $color-hover;
+				transition: all 0.3s ease;
+				cursor: pointer;
+				@media #{$viewport-small} {
+					padding: 14px 0;
+					font-size: 16px;
+				}
+				&:hover {
+					background: #aa7128;
+				}
+			}
+		}
+	}
+}

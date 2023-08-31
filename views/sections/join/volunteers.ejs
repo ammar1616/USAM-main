@@ -1,0 +1,87 @@
+<!-- Start Join Us -->
+<section class="contact" id="contact">
+    <div class="container contact__container">
+        <aside class="contact__aside">
+            <div class="contact__aside__image">
+                <img src="./assets/img/contact.png" alt="Contact Image" />
+            </div>
+            <h2>Apply as a Volunteer</h2>
+            <p>
+                Join us in this educational revolution and be part of a community that believes in the power of learning and growth. Together, we can shape a brighter future through education.
+            </p>
+            <ul class="contact__details">
+                <li>
+                    <i class="uil uil-envelope"></i>
+                    <h5>Hello@usamif.com</h5>
+                </li>
+                <li>
+                    <i class="uil uil-location-point"></i>
+                    <h5>Cairo, Egypt</h5>
+                </li>
+            </ul>
+            <ul class="contact__socials">
+                <li>
+                    <a href="https://web.facebook.com/Usam.Courses/?_rdc=3&_rdr"><i class="uil uil-facebook-f"></i
+					></a>
+                </li>
+                <li>
+                    <a href="https://instagram.com/usamfoundation?igshid=MzRlODBiNWFlZA=="><i class="uil uil-instagram"></i
+					></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/FoundationUsam"><i class="uil uil-twitter"></i
+					></a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/company/usamif"><i class="uil uil-linkedin"></i
+					></a>
+                </li>
+            </ul>
+        </aside>
+        <form action="/applyform" method="post" class="contact__form" id="volunteer-form">
+            <div class="form__left">
+                <div class="form-group">
+                    <input type="text" name="fullname" placeholder="Full Name" required />
+                </div>
+                <div class="form-group">
+                    <input type="email" name="email" placeholder="Email Address" required />
+                    <input type="text" name="phone" placeholder="Phone Number" required />
+                </div>
+                <div class="dob">
+                    <label class="form-label" for="dob">Date of Birth:</label>
+                    <input class="form-input" name="dateofbirth" type="date" id="dateofbirth" required />
+                </div>
+                <div class="form-group">
+                    <input type="text" name="committee" placeholder="Which committee do you want to join?" class="form-input" id="committee" required />
+                </div>
+                <div class="form-group-left">
+                    <label class="form-label">Did you attend USAM summit before as a Volunteer?</label>
+                    <div class="form-radio-group">
+                        <label><input type="radio" name="attend_before" value="yes" required />Yes</label>
+                        <label><input type="radio" name="attend_before" value="no" required />No</label>
+                    </div>
+                </div>
+            </div>
+            <div class="form__right">
+                <div class="form-group form-group-right">
+                    <input type="text" name="job_title" placeholder="Job Title" required />
+                    <input type="text" name="company_name" placeholder="Company Name" required />
+                </div>
+                <div class="form-group">
+                    <input type="text" name="country" placeholder="Country" class="form-input" id="country" required />
+                    <input type="text" name="city" placeholder="City" class="form-input" id="city" required />
+                </div>
+                <div class="form-group form-group-right form-group-right-mt">
+                    <input type="text" name="fb_url" placeholder="LinkedIn/Facebook Profile URL" class="form-input" id="profile" required />
+                    <input type="text" name="education" placeholder="Education" class="form-input" id="education" required />
+                </div>
+                <div class="submit">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+            <input type="hidden" name="role" value="Volunteer" />
+
+        </form>
+    </div>
+</section>
+<!-- End Join Us -->

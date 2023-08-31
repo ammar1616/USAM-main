@@ -1,0 +1,122 @@
+@import '../vars.scss';
+/* ======= Contact ======= */
+.contact-us {
+	@media #{$viewport-medium} {
+		margin-top: 10rem;
+		padding-bottom: 0;
+	}
+	& .contact-us__container {
+		background-color: $color-bg1;
+		padding: 4rem;
+		display: grid;
+		grid-template-columns: 40% 60%;
+		gap: 4rem;
+		height: 30rem;
+		margin: 18rem auto;
+		border-radius: 1rem;
+		@media #{$viewport-medium} {
+			gap: 1.5rem;
+			margin-top: 3rem;
+			height: auto;
+			padding: 1.5rem;
+		}
+		@media #{$viewport-small} {
+			grid-template-columns: 1fr;
+			gap: 3rem;
+			margin-top: 0;
+			margin-bottom: 6rem;
+			padding: 0;
+		}
+		& .contact-us__aside {
+			background-color: $color-primary;
+			padding: 3rem;
+			border-radius: 1rem;
+			position: relative;
+			bottom: 10rem;
+			@media #{$viewport-medium} {
+				width: auto;
+				padding: 1.5rem;
+				bottom: 0;
+			}
+			& .aside-us__image {
+				width: 12rem;
+				margin-bottom: 2rem;
+			}
+			& h2 {
+				text-align: left;
+				margin-bottom: 1rem;
+			}
+			& h5 {
+				font-weight: 500;
+			}
+			& p {
+				font-size: 0.9rem;
+				margin-bottom: 2rem;
+			}
+			& .contact-us__details li {
+				display: flex;
+				gap: 1rem;
+				align-items: center;
+				margin-bottom: 1rem;
+			}
+			& .contact-us__socials {
+				display: flex;
+				gap: 0.8rem;
+				margin-top: 3rem;
+				& a {
+					background-color: $color-bg2;
+					padding: 0.6rem;
+					border-radius: 50%;
+					font-size: 0.9rem;
+					transition: $transition;
+				}
+				& a:hover {
+					background-color: $color-hover;
+				}
+			}
+		}
+	}
+}
+/* ======= Form ======= */
+.contact-us__form {
+	display: flex;
+	flex-direction: column;
+	gap: 1.2rem;
+	margin-right: 4rem;
+	@media #{$viewport-medium} {
+		align-self: center;
+		margin-right: 1.5rem;
+	}
+	@media #{$viewport-small} {
+		margin: 0 1.5rem 3rem;
+	}
+	& .form-us__name {
+		display: flex;
+		gap: 1.2rem;
+		@media #{$viewport-small} {
+			flex-direction: column;
+		}
+	}
+	& input[type='text'] {
+		width: 50%;
+		@media #{$viewport-small} {
+			width: 100%;
+		}
+	}
+	& input,
+	textarea {
+		width: 100%;
+		padding: 0.7rem;
+		background-color: $color-bg;
+		color: $color-white;
+	}
+	.btn {
+		width: max-content;
+		margin-top: 1rem;
+		cursor: pointer;
+		@media #{$viewport-medium} {
+			margin: 1rem auto -1rem;
+			cursor: pointer;
+		}
+	}
+}

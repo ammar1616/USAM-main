@@ -1,0 +1,30 @@
+/* ========== Main ========== */
+@import './rules';
+@import './vars';
+@import './navbar';
+@import './footer';
+/* ========== Home ========== */
+@import './home/banner';
+@import './home/about';
+@import './home/vision';
+@import './home/project';
+@import './home/mission';
+@import './home/achievements';
+/* ========== Projects ========== */
+@import './projects/projects';
+/* ========== Branches ========== */
+@import './branch/branch';
+@import './branch/teams';
+/* ========== Game ========== */
+@import './game/game';
+@import './game/quiz';
+@import './game/memory';
+@import './game/tic-tac-toe';
+@import './game/word-guess';
+/* ========== Join Us ========== */
+@import './join/partners';
+@import './join/community';
+@import './join/volunteers';
+@import './join/ambassadors';
+/* ========== Contact ========== */
+@import './contact/contact';

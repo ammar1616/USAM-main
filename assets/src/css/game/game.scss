@@ -1,0 +1,15 @@
+#game {
+    display: grid;
+    gap: 1.8rem;
+    padding: 2.8rem 0;
+    & #submit {
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        width: 80%;
+        border-radius: 12px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+    }
+}
