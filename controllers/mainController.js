@@ -137,7 +137,7 @@ exports.applyform = async(req, res) => {
         const newuser = await users.create(value);
 
 
-        const sw = new Swal("Data Sent Successfully");
+        // const sw = new Swal("Data Sent Successfully");
 
         res.render('pages/home.ejs');
 
