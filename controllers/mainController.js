@@ -4,9 +4,14 @@ const Joi = require('joi');
 const Swal = require('sweetalert2');
 const teams = require('../teams/teams.json');
 const { users, contactus_users } = require("../models/user.model")
+const { v4: uuidv4 } = require('uuid');
+
+const branchesjson = './teams/teams.json';
 
 
-exports.index = async(req, res, next) => {
+
+
+exports.index = async (req, res, next) => {
     const { page } = req.params;
     const main = ['home', 'projects', 'contact'];
     const game = ['game', 'quiz', 'memory', 'tic-tac-toe', 'word-guess'];
@@ -60,7 +65,7 @@ exports.getImage = (req, res) => {
 };
 
 
-exports.applyform = async(req, res) => {
+exports.applyform = async (req, res) => {
     const { fullname, email, phone, dateofbirth, job_title, company_name, country, city, fb_url, committee, education, attend_before, role } = req.body
 
     const userSchema = Joi.object({
@@ -130,26 +135,21 @@ exports.applyform = async(req, res) => {
         const { error, value } = userSchema.validate(req.body);
         if (error) {
             // If validation fails, return an error response
-            return res.status(400).render(routes[req.body.role], { error: error.details[0].message });
+            return res.render(routes[req.body.role], { error: error.details[0].message });
         }
 
-        // If validation passes, create a new user
         const newuser = await users.create(value);
-
-
-        // const sw = new Swal("Data Sent Successfully");
-
-        res.render('pages/home.ejs');
+        res.redirect('/');
 
     } catch (err) {
         // Handle any other errors that may occur during user creation
         console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
+        res.status(500).json({ error: 'Internal server error11111' });
     }
-
 }
 
-exports.contactus = async(req, res) => {
+
+exports.contactus = async (req, res) => {
     const { fullname, email, phone, message } = req.body
 
     const userSchema = Joi.object({
@@ -194,6 +194,110 @@ exports.contactus = async(req, res) => {
     } catch (err) {
         // Handle any other errors that may occur during user creation
         console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
+        res.status(500).json({ error: 'Internal server error22222' });
+    }
+}
+
+
+//==================================================//
+// for admin dashboard
+
+
+const saveData = (data) => {
+    let stringFyData = JSON.stringify(data);
+    fs.writeFileSync(branchesjson, stringFyData)
+}
+
+const readData = () => {
+    let data = fs.readFileSync(branchesjson, 'utf8');
+    return JSON.parse(data);
+}
+
+exports.getTeamMembers = (req, res) => {
+    let data = readData()
+    console.log(data);
+    res.json({ message: "Data", data });
+}
+
+exports.addMemberTeam = (req, res) => {
+    try {
+        const memberId = uuidv4(); 
+        const member = req.body;
+        
+        const newMember = { id: memberId, name:member.name,title:member.title,social:member.social,image:member.image};
+        let oldData = readData();
+        const city = member.city        
+
+        if (oldData[city]) {
+            oldData[city].push(newMember);
+        } else {
+            oldData[city] = [newMember];
+        }
+        saveData(oldData);
+        res.status(200).send("New member added successfully.");
+    } catch (error) {
+        console.error("Error adding member:", error);
+        res.status(500).send("Internal Server Error");
+    }
+}
+
+exports.updateMemberTeam =  (req, res) => {
+    try {
+        const updatedMember = req.body;
+        console.log(updatedMember);
+        const { city, id } = updatedMember; // Assuming memberId uniquely identifies the member
+
+        console.log(city);
+        console.log(id);
+
+        let oldData = readData();
+
+        if (oldData[city]) {
+            const cityMembers = oldData[city];
+            const memberIndex = cityMembers.findIndex(member => member.id === id);
+
+            if (memberIndex !== -1) {
+                // Update the existing member with the new data
+                oldData[city][memberIndex] = updatedMember;
+                saveData(oldData);
+                res.status(200).send("Member updated successfully.");
+            } else {
+                res.status(404).send("Member not found in the specified city.");
+            }
+        } else {
+            res.status(400).send("City not found in the data.");
+        }
+    } catch (error) {
+        console.error("Error updating member:", error);
+        res.status(500).send("Internal Server Error");
+    }
+}
+
+
+
+exports.deleteMemberTeam = (req, res) => {
+    try {
+        const { city, id } = req.body;
+
+        let oldData = readData();
+
+        if (oldData[city]) {
+            const cityMembers = oldData[city];
+            const memberIndex = cityMembers.findIndex(member => member.id === id);
+
+            if (memberIndex !== -1) {
+                // Remove the member from the array
+                oldData[city].splice(memberIndex, 1);
+                saveData(oldData);
+                res.status(200).send("Member deleted successfully.");
+            } else {
+                res.status(404).send("Member not found in the specified city.");
+            }
+        } else {
+            res.status(400).send("City not found in the data.");
+        }
+    } catch (error) {
+        console.error("Error deleting member:", error);
+        res.status(500).send("Internal Server Error");
     }
 }
