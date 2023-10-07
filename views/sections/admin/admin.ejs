@@ -1,0 +1,113 @@
+<!-- start admin  -->
+<div id="new_member_container" class="d-none add_new_member_container">
+  <div>
+    <button id="close_form" class="btn cursor-pointer"><i class="fa-regular fa-circle-xmark"></i></button>
+    <!-- add member form ---------------------------------------------- -->
+    <form class="form" id="form_add" action="/addmember" method="post" enctype="multipart/form-data">
+      <div class="title">Add</div>
+      <div class="subtitle">New Member</div>
+
+      <div class="input-container ic1">
+        <input placeholder="City" required type="text" class="input" name="city" id="cityNameAdd">
+      </div>
+      <div class="input-container ic1">
+        <input placeholder="Name" required type="text" class="input" name="name">
+      </div>
+
+      <div class="input-container ic2">
+        <input placeholder="Role" required type="text" name="title" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input placeholder="Instagram" required type="text" name="instagram" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input placeholder="Facebook" required type="text" name="facebook" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input placeholder="Linkedin" required type="text" name="linkedin" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input placeholder="Image" type="file" name="image" class="input" accept="image/*">
+      </div>
+
+      <button class="submit" type="submit">submit</button>
+    </form>
+  </div>
+</div>
+
+<div id="update_member_container" class="d-none add_new_member_container">
+  <div>
+    <button id="close_form_update" class="btn cursor-pointer"><i class="fa-regular fa-circle-xmark"></i></button>
+    <!-- update member form ---------------------------------------------- -->
+    <form class="form" action="/updatemember" method="post" enctype="multipart/form-data">
+      <div class="title">Update</div>
+      <div class="subtitle">Current Member</div>
+
+      <div class="input-container ic1" style="display: none;">
+        <input id="id_value" placeholder="City" required type="text"  class="input" name="id_value">
+      </div>
+      <div class="input-container ic1" style="display: none;">
+        <input id="city_value" placeholder="City" required type="text"  class="input" name="city_value">
+      </div>
+      <div class="input-container ic1">
+        <input id="name_value" placeholder="Name" required type="text" class="input" name="name">
+      </div>
+
+      <div class="input-container ic2">
+        <input id="role_value" placeholder="Role" required type="text" name="title" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input id="insta_value" placeholder="Instagram" required type="text" name="instagram" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input id="face_value" placeholder="Facebook" required type="text" name="facebook" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input id="link_value" placeholder="Linkedin" required type="text" name="linkedin" class="input">
+      </div>
+
+      <div class="input-container ic2">
+        <input id="img_value" placeholder="Image" type="file" name="image" class="input" accept="image/*">
+      </div>
+      <button class="submit" id="update_submit" type="submit">submit</button>
+    </form>
+  </div>
+</div>
+<section class="admin-panel-container">
+  <div>
+    <div class="add-container">
+      <i id="menu_toggle" class=" text-light fa-solid fa-bars menu-toggle cursor-pointer"></i>
+      <div>
+        <button id="add_member_btn" class="btn  fs-5 btn-primary cursor-pointer admin-btn">Add</button>
+      </div>
+    </div>
+    <h3>City : <span id="city"></span></h3>
+    <div class="admin-data">
+      <!-- city btn countainer  -->
+      <div id="city_btns" class="city-btns-container">
+      </div>
+      <div class="tbl-header">
+        <table style="border: 1px solid white; border-radius: 20px;">
+          <thead>
+            <tr>
+              <th>Image</th>
+              <th>Name</th>
+              <th>Title</th>
+              <th>Social</th>
+              <th>Admin</th>
+            </tr>
+          </thead>
+          <tbody id="table_body">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>

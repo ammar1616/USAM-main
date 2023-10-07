@@ -17,6 +17,7 @@ exports.index = async (req, res, next) => {
     const game = ['game', 'quiz', 'memory', 'tic-tac-toe', 'word-guess'];
     const join = ['partners', 'community', 'volunteers', 'ambassadors'];
     const branch = ['branch', 'teams'];
+    const admin = ['admin', 'adminLogin']
 
     let data = {
         page: '404',
@@ -36,6 +37,9 @@ exports.index = async (req, res, next) => {
         } else if (branch.includes(page)) {
             data.page = page;
             data.page_path = `branch/${page}`;
+        } else if (admin.includes(page)) {
+            data.page = page;
+            data.page_path = `admin/${page}`;
         } else if (page == 'favicon.ico') return;
     } else if (page == undefined) {
         data.page = 'home';
@@ -164,8 +168,10 @@ exports.contactus = async (req, res) => {
             'any.required': 'Email is required.',
             'string.empty': 'Email cannot be empty.',
         }),
-        phone: Joi.string().trim().required().regex(/^\d{10}$/).messages({
-            'string.pattern.base': 'Phone number must be exactly 10 digits.',
+        phone: Joi.string().trim().min(10).max(15).pattern(/^[0-9+\s]+$/).required().messages({
+            'string.pattern.base': 'Phone number can only contain numbers and spaces.',
+            'string.min': 'Phone number should have at least 10 digits.',
+            'string.max': 'Phone number should not exceed 15 characters.',
             'any.required': 'Phone number is required.',
             'string.empty': 'Phone number cannot be empty.',
         }),
@@ -173,6 +179,7 @@ exports.contactus = async (req, res) => {
             'string.min': 'Message cannot be empty.',
             'any.required': 'Message is required.',
             'string.empty': 'Message cannot be empty.',
+
         }),
     });
 
@@ -181,14 +188,22 @@ exports.contactus = async (req, res) => {
         const { error, value } = userSchema.validate(req.body);
         if (error) {
             // If validation fails, return an error response
-            return res.status(400).render('pages/contact.ejs', { error: error.details[0].message });
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: error,
+            })
+            return res.status(400).render('pages/contact', { error: error.details[0].message });
         } else {
             // If validation passes, create a new user
             const newcontactus = await contactus_users.create(value);
-
             const successMessage = 'Data Sent Successfully';
-
-            res.render('pages/home.ejs', { successMessage });
+            Swal.fire(
+                'Done',
+                'We will contact you soon',
+                'success'
+            )
+            res.redirect("/");
         }
 
     } catch (err) {
@@ -215,18 +230,26 @@ const readData = () => {
 
 exports.getTeamMembers = (req, res) => {
     let data = readData()
-    console.log(data);
+    // console.log(data);
     res.json({ message: "Data", data });
 }
 
 exports.addMemberTeam = (req, res) => {
     try {
-        const memberId = uuidv4(); 
+        const memberId = uuidv4();
         const member = req.body;
-        
-        const newMember = { id: memberId, name:member.name,title:member.title,social:member.social,image:member.image};
+        console.log(req.body);
+        const newMember = {
+            id: memberId,
+            name: member.name,
+            title: member.title,
+            linkedin: member.linkedin,
+            facebook: member.facebook,
+            instagram: member.instagram,
+            image: req.file.filename
+        };
         let oldData = readData();
-        const city = member.city        
+        const city = member.city
 
         if (oldData[city]) {
             oldData[city].push(newMember);
@@ -234,33 +257,39 @@ exports.addMemberTeam = (req, res) => {
             oldData[city] = [newMember];
         }
         saveData(oldData);
-        res.status(200).send("New member added successfully.");
+        // res.status(200).send("New member added successfully.");
+        res.status(200).redirect("/admin");
+
     } catch (error) {
         console.error("Error adding member:", error);
         res.status(500).send("Internal Server Error");
+
     }
 }
-
-exports.updateMemberTeam =  (req, res) => {
+exports.updateMemberTeam = async(req, res) => {
     try {
+        console.log(req.body);
         const updatedMember = req.body;
-        console.log(updatedMember);
-        const { city, id } = updatedMember; // Assuming memberId uniquely identifies the member
-
+        // console.log(updatedMember);
+        const { city, id } = updatedMember;
         console.log(city);
         console.log(id);
-
         let oldData = readData();
 
         if (oldData[city]) {
             const cityMembers = oldData[city];
             const memberIndex = cityMembers.findIndex(member => member.id === id);
-
+            // console.log(oldData[city][memberIndex].image);
+            console.log(req.body.image);
             if (memberIndex !== -1) {
                 // Update the existing member with the new data
+                const oldImagePath = 'teams/img/' + oldData[city][memberIndex].image
                 oldData[city][memberIndex] = updatedMember;
+                oldData[city][memberIndex].image = req.file.filename
+                await fs.promises.unlink(oldImagePath);
                 saveData(oldData);
-                res.status(200).send("Member updated successfully.");
+                // res.status(200).send("Member updated successfully.");
+                res.status(200).redirect("/admin");
             } else {
                 res.status(404).send("Member not found in the specified city.");
             }
@@ -275,21 +304,23 @@ exports.updateMemberTeam =  (req, res) => {
 
 
 
-exports.deleteMemberTeam = (req, res) => {
+exports.deleteMemberTeam = async (req, res) => {
     try {
         const { city, id } = req.body;
-
+        console.log(city, id);
         let oldData = readData();
-
         if (oldData[city]) {
             const cityMembers = oldData[city];
             const memberIndex = cityMembers.findIndex(member => member.id === id);
-
             if (memberIndex !== -1) {
                 // Remove the member from the array
+                let imgpath = 'teams/img/' + cityMembers[memberIndex].image
+                await fs.promises.unlink(imgpath);
                 oldData[city].splice(memberIndex, 1);
                 saveData(oldData);
-                res.status(200).send("Member deleted successfully.");
+                // res.status(200).send("Member deleted successfully.");
+                console.log("test");
+                res.status(200).redirect("/admin");
             } else {
                 res.status(404).send("Member not found in the specified city.");
             }

@@ -1,1394 +1,1394 @@
 {
-	"cairo": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"coastal": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"delta": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"upperegypt": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"bahrain": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"uae": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"kuwait": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"oman": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"qatar": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"saudiarabia": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"yemen": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"morocco": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"libya": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture5.png"
-		}
-	],
-	"tunisia": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"algeria": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"sudan": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"mauritania": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"somalia": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"comoros": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"jordan": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"syria": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"lebanon": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"iraq": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Lautaro Pirlo",
-			"title": "HR",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	],
-	"palestine": [
-		{
-			"name": "Khaled Olama",
-			"title": "Frontend Developer",
-			"social": [
-				{
-					"instagram": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"linkedin": "https://www.google.com"
-				}
-			],
-			"image": "Picture1.png"
-		},
-		{
-			"name": "Alex Payet",
-			"title": "Prompt Engineer",
-			"social": [
-				{
-					"linkedin": "https://www.google.com",
-					"facebook": "https://www.google.com",
-					"instagram": "https://www.google.com"
-				}
-			],
-			"image": "Picture2.png"
-		},
-		{
-			"name": "Marcos Chaib",
-			"title": "Software Engineer",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture3.png"
-		},
-		{
-			"name": "Carlos Kane",
-			"title": "Engineering Manager",
-			"social": [
-				{
-					"linkedin": "www.gooogle.com",
-					"facebook": "www.gooogle.com",
-					"instagram": "www.gooogle.com"
-				}
-			],
-			"image": "Picture4.png"
-		}
-	]
+    "cairo": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "coastal": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "delta": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "upperegypt": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "bahrain": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "uae": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "kuwait": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "oman": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "qatar": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "saudiarabia": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "yemen": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "morocco": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "libya": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture5.png"
+        }
+    ],
+    "tunisia": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "algeria": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "sudan": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "mauritania": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "somalia": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "comoros": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "jordan": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "syria": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "lebanon": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "iraq": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Lautaro Pirlo",
+            "title": "HR",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ],
+    "palestine": [
+        {
+            "name": "Khaled Olama",
+            "title": "Frontend Developer",
+            "social": [
+                {
+                    "instagram": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "linkedin": "https://www.google.com"
+                }
+            ],
+            "image": "Picture1.png"
+        },
+        {
+            "name": "Alex Payet",
+            "title": "Prompt Engineer",
+            "social": [
+                {
+                    "linkedin": "https://www.google.com",
+                    "facebook": "https://www.google.com",
+                    "instagram": "https://www.google.com"
+                }
+            ],
+            "image": "Picture2.png"
+        },
+        {
+            "name": "Marcos Chaib",
+            "title": "Software Engineer",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture3.png"
+        },
+        {
+            "name": "Carlos Kane",
+            "title": "Engineering Manager",
+            "social": [
+                {
+                    "linkedin": "www.gooogle.com",
+                    "facebook": "www.gooogle.com",
+                    "instagram": "www.gooogle.com"
+                }
+            ],
+            "image": "Picture4.png"
+        }
+    ]
 }

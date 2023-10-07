@@ -1,4 +1,5 @@
 const express = require('express');
+require('dotenv').config()
 const app = express();
 app.use(express.json());
 const fs = require("fs");
@@ -12,11 +13,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.set('view engine', 'ejs');
 
 
-// index page
 let createtable = require("./routes/index")
 createtable()
 
 
-// require('./routes')(app)
-
-app.listen(4000, () => console.log(`Running on port: 4000`))
+app.listen(process.env.PORT, () => console.log(`Running on port: ${process.env.PORT}`))

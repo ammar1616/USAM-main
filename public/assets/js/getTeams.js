@@ -27,13 +27,13 @@ $(document).ready(function () {
                         <p>${el.title}</p>
                     </div>
                     <div class="team__member-socials">
-                        <a href="${el.social[0].instagram}" target="_blank">
+                        <a href="${el.instagram}" target="_blank">
                             <i class="uil uil-instagram"></i>
                         </a>
-                        <a href="${el.social[0].facebook}" target="_blank">
+                        <a href="${el.facebook}" target="_blank">
                             <i class="uil uil-facebook"></i>
                         </a>
-                        <a href="${el.social[0].linkedin}" target="_blank">
+                        <a href="${el.linkedin}" target="_blank">
                             <i class="uil uil-linkedin"></i>
                         </a>
                     </div>

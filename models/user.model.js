@@ -1,5 +1,5 @@
 const sequelize = require("sequelize")
-const objsequelize = require("../configuration/config.js")
+const objsequelize = require("../configuration/database")
 
 const users = objsequelize.define("user", {
     fullname: {
@@ -56,7 +56,6 @@ const contactus_users = objsequelize.define("contactus_user", {
     message: {
         type: sequelize.STRING
     }
-
 })
 
 module.exports = {

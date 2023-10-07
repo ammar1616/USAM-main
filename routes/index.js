@@ -1,4 +1,4 @@
-const sequelize = require("../configuration/config")
+const sequelize = require("../configuration/database")
 module.exports = createtable = () => {
     sequelize.sync().then(
         res => console.log("Table Created")
